@@ -1,5 +1,6 @@
 # Data Analytics Resources
 A resource center for articles, books, videos, and tools to support continuous learning and career development in the data field.
+This is just showing for me, Michelle, right?
 
 ## Videos
 
