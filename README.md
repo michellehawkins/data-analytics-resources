@@ -1,6 +1,5 @@
 # Data Analytics Resources
 A resource center for articles, books, videos, and tools to support continuous learning and career development in the data field.
-Testing a hyperlink to [SpanishDict](https://www.spanishdict.com/)
 
 ## Videos
 
@@ -102,5 +101,12 @@ Testing a hyperlink to [SpanishDict](https://www.spanishdict.com/)
 
 [Data Analysis of Licensed Drivers in the USA](https://deepnote.com/app/data-analytics-playroom-daj/Analysis-3354e600-3cd3-4c06-866f-97f3eb21a5df?utm_source=substack&utm_medium=email) - using Deepnote / Python / SQL 
 
+## My Additions
 
-     
+### Intersections with L&D
+
+TLDC Videos:
+
+- [How To Think Like a Data Scientist - Without Being One](https://www.youtube.com/watch?v=E1U002JVdto&t=11s)
+- [Certified Tableau Trainer / interactive data visualizations](https://www.youtube.com/watch?v=n5Nu0nJVSVQ)
+- [Applying Data Analytics to L&D](https://www.youtube.com/watch?v=scUNdsyUtm0)
