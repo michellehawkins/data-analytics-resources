@@ -110,3 +110,8 @@ TLDC Videos:
 - [How To Think Like a Data Scientist - Without Being One](https://www.youtube.com/watch?v=E1U002JVdto&t=11s)
 - [Certified Tableau Trainer / interactive data visualizations](https://www.youtube.com/watch?v=n5Nu0nJVSVQ)
 - [Applying Data Analytics to L&D](https://www.youtube.com/watch?v=scUNdsyUtm0)
+
+### Criteria for good DA "Day in the Life" videos?
+
+- What makes the common parts of their day unique to DA professionals?
+   - Meetings, presentations, lunch, etc.
