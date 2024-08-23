@@ -115,3 +115,14 @@ TLDC Videos:
 
 - What makes the common parts of their day unique to DA professionals?
    - Meetings, presentations, lunch, etc.
+
+### Job postings that TM DA grads could do
+
+- Without further education or experience
+   - Networking, soft skills, (possibly degrees) implied
+
+### DA Portfolios
+
+- What recruiters or networkers look at to gauge their ability
+   - Good ones, bad ones, entry level vs. senior
+   - Kinds of projects and functions, proof of concept
